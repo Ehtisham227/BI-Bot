@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1KUcFJFzV5Vcwub-VbXR0T-vJeiJqvIE0
 """
 
-!pip install streamlit
 
 # app.py
 import streamlit as st
