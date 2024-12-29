@@ -35,8 +35,8 @@ def send_email(to_email, subject, body, attachments):
         # SMTP Configuration
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
-        sender_email = "your-email@gmail.com"
-        sender_password = "your-email-password"
+        sender_email = "ehtisham.metro798@gmail.com"
+        sender_password = "tmdwvpandcxjhnsd"
 
         # Email Message
         msg = MIMEMultipart()
